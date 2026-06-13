@@ -12,7 +12,7 @@ Welcome to my engineering portfolio. Below is a breakdown of my cloud architectu
 * *[In Progress]* — Mapping out a serverless Canary deployment configuration utilizing AWS CodeDeploy and API Gateway to mathematically shift traffic and execute automated rollbacks.
 
 ### 💥 4. Disaster Recovery (High Availability)
-* [multi-region-dr-failover](https://github.com/odonnkongolo/multi-region-dr-failover) — Mapping out a serverless Canary deployment configuration utilizing AWS CodeDeploy and API Gateway to mathematically shift traffic and execute automated rollbacks.
+* [multi-region-dr-failover](https://github.com/odonnkongolo/multi-region-dr-failover) — Active-Passive Multi-Region Disaster Recovery architecture utilizing Amazon Route 53 global health checks and dual-region S3 deployments for automated, zero-touch failover.
 
 ### 🚚 5. Stateful Cloud Migration & Data Persistence
 * [statefull-aws-migration](https://github.com/odonnkongolo/statefull-aws-migration) — Architectural patterns and infrastructure for migrating and managing stateful database workloads in AWS.
