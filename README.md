@@ -11,6 +11,11 @@ Welcome to my engineering portfolio. Below is a breakdown of my cloud architectu
 ### 🚀 3. Advanced Release Engineering
 * *[In Progress]* — Mapping out a serverless Canary deployment configuration utilizing AWS CodeDeploy and API Gateway to mathematically shift traffic and execute automated rollbacks.
 
-### 💥4. Disaster Recovery (High Availability)
+### 💥 4. Disaster Recovery (High Availability)
 * *[In Progress]* — Mapping out a serverless Canary deployment configuration utilizing AWS CodeDeploy and API Gateway to mathematically shift traffic and execute automated rollbacks.
-`
+
+### 🚚 5. Stateful Cloud Migration & Data Persistence
+* Architectural patterns and infrastructure for migrating and managing stateful database workloads in AWS.
+
+### 🎥 6. Platform Observability & Telemetry
+* Setting up robust monitoring, logging, and tracing across hybrid cloud environments.
