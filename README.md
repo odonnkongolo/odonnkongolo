@@ -15,7 +15,7 @@ Welcome to my engineering portfolio. Below is a breakdown of my cloud architectu
 * *[In Progress]* — Mapping out a serverless Canary deployment configuration utilizing AWS CodeDeploy and API Gateway to mathematically shift traffic and execute automated rollbacks.
 
 ### 🚚 5. Stateful Cloud Migration & Data Persistence
-* Architectural patterns and infrastructure for migrating and managing stateful database workloads in AWS.
+* [statefull-aws-migration](https://github.com/odonnkongolo/statefull-aws-migration) — Architectural patterns and infrastructure for migrating and managing stateful database workloads in AWS.
 
 ### 🎥 6. Platform Observability & Telemetry
-* Setting up robust monitoring, logging, and tracing across hybrid cloud environments.
+* [exacq-telemetry-ops](https://github.com/odonnkongolo/exacq-telemetry-ops) & [cloud-market-tracker](https://github.com/odonnkongolo/cloud-market-tracker) — Setting up robust monitoring, logging, and tracing across hybrid cloud environments.
