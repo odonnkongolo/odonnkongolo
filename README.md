@@ -11,8 +11,7 @@ Welcome to my engineering portfolio. Below is a breakdown of my cloud architectu
 ### 🚀 3. Advanced Release Engineering
 * [serverless-canary-release](https://github.com/odonnkongolo/serverless-canary-release) — **Serverless Canary Deployment Pipeline (Release Engineering)**
   * **Advanced Release Engineering:** Designed and executed an automated traffic-shifting canary deployment pipeline using AWS CodeDeploy, successfully shifting 10% of live traffic to new software iterations during release windows.
-  * **Risk Mitigation:**
-  * **Immutable Serverless Architecture:**
+  * **Risk Mitigation** & **Immutable Serverless Architecture**
 
 ### 💥 4. Disaster Recovery (High Availability)
 * [multi-region-dr-failover](https://github.com/odonnkongolo/multi-region-dr-failover) — Active-Passive Multi-Region Disaster Recovery architecture utilizing Amazon Route 53 global health checks and dual-region S3 deployments for automated, zero-touch failover.
