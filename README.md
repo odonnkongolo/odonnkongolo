@@ -7,6 +7,7 @@ Welcome to my engineering portfolio. Below is a breakdown of my cloud architectu
 
 ### 🛡️ 2. Event-Driven Auto-Remediation (Cloud Security)
 * [devsecops-remediation-bot](https://github.com/odonnkongolo/devsecops-remediation-bot) — An autonomous Python Lambda bot triggered by AWS Config and EventBridge to instantly detect and neutralize public firewall vulnerabilities (Exposed SSH) in real-time.
+* [snyk-cloud-security](https://github.com/odonnkongolo/snyk-cloud-security) — **AI-Enhanced DevSecOps Pipeline (Snyk Integration):** Integrates Snyk's machine learning engine directly into a GitHub Actions CI pipeline. It leverages Snyk Code AI and Snyk IaC to perform semantic code analysis, predict logic flaws, and enforce strict infrastructure hygiene prior to AWS EKS deployment.
 
 ### 🚀 3. Advanced Release Engineering
 * [serverless-canary-release](https://github.com/odonnkongolo/serverless-canary-release) — **Serverless Canary Deployment Pipeline (Release Engineering)**
