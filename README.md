@@ -21,4 +21,4 @@ Welcome to my engineering portfolio. Below is a breakdown of my cloud architectu
 * [statefull-aws-migration](https://github.com/odonnkongolo/statefull-aws-migration) — Architectural patterns and infrastructure for migrating and managing stateful database workloads in AWS.
 
 ### 🎥 6. Platform Observability & Telemetry
-* [exacq-telemetry-ops](https://github.com/odonnkongolo/exacq-telemetry-ops) & [cloud-market-tracker](https://github.com/odonnkongolo/cloud-market-tracker) & [never404-platform](https://github.com/odonnkongolo/never404-platform) — Setting up robust monitoring, logging, and tracing across hybrid cloud environments.
+* [exacq-telemetry-ops](https://github.com/odonnkongolo/exacq-telemetry-ops) & [cloud-market-tracker](https://github.com/odonnkongolo/cloud-market-tracker) & [never404-platform](https://github.com/odonnkongolo/never404-platform) — Setting up robust monitoring, logging, and tracing across hybrid cloud environments. This includes Grafana and Prometheus.
